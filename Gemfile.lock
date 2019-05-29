@@ -344,7 +344,7 @@ GEM
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 1.7)
     ruby-openid (2.7.0)
-    ruby-prof (0.17.0)
+    ruby-prof (0.18.0)
     ruby-progressbar (1.10.0)
     ruby-readability (0.7.0)
       guess_html_encoding (>= 0.0.4)
