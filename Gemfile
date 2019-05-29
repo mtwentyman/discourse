@@ -90,7 +90,7 @@ gem 'omniauth-github'
 gem 'omniauth-oauth2', require: false
 
 # pinned until we test verified email change in the gem
-gem 'omniauth-google-oauth2', '0.6.0'
+gem 'omniauth-google-oauth2', '0.6.1'
 
 gem 'oj'
 gem 'pg'
